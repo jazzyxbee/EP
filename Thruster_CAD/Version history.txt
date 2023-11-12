@@ -1,0 +1,12 @@
+########################
+Thruster Versions:
+########################
+
+
+- Mk1 (05/23):	First thruster design, rough, had commercial cathode.
+
+- Mk2 (06/23):	Manufactured thruster design, uses the "revolver" magnet configuration.
+		Introduced custom cathode, to be made in-house @ Robinson.
+
+- Mk3 (07/23): 	Updated hollow cathode designs,	added sketches for cathode manufacturing @ Robinson. 
+		The thruster itself is the same as Mk2 (revolver). 
